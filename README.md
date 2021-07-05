@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Arksyd's github stats](https://github-readme-stats.vercel.app/api?username=Arksyd96)
+![Arksyd's github stats](https://github-readme-stats.vercel.app/api?username=Arksyd96&)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arksyd96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Arksyd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arksyd96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
