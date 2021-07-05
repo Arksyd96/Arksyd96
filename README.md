@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Arksyd96/Arksyd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,12 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Arksyd's github stats](https://github-readme-stats.vercel.app/api?username=Arksyd96&)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arksyd96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Arksyd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arksyd96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 
