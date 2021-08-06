@@ -15,7 +15,7 @@ _**Do never forget, we are the avatars of the univers**_
 **📫 You can also reach me here :**  
   
 
-<a href="https://www.linkedin.com/in/aghiles-kebaili/"><img Height=30 title="LinkedIn" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/aghiles-kebaili/" target="_blank"><img Height=30 title="LinkedIn" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/kino88__/"><img height=30 title="Instagram" src="https://img.icons8.com/color/144/000000/instagram-new--v1.png"/></a>
 <a href="https://discord.gg/fRGX4j9MZn"><img height=30 title="Discord" src="https://img.icons8.com/color/144/000000/discord-new-logo.png"/></a>
 <a href="mailto:aghiles.kebaili.1998@gmail.com"><img height=30 title="aghiles.kebaili.1998@gmail.com" src="https://img.icons8.com/color/144/000000/gmail--v1.png"/></a>
