@@ -7,7 +7,7 @@
 _**Do never forget, we are the avatars of the univers**_
 
 <ins>About me :</ins>
-- 🔭 I’m currently working on computer vision and robotics.
+- 🔭 I’m currently working on computer vision.
 - 🌱 I’m currently studying AI and Computer vision at University of Paris-Descartes, Paris.
 - 💬 Ask me about everything here.
 - ⚡ Fact: *Be productive, don't waste your time.. or time will waste you.*
