@@ -7,9 +7,9 @@
 _**Do never forget, we are the avatars of the univers**_
 
 <ins>About me :</ins>
-- 🔭 I’m currently working on computer vision.
-- 🌱 I’m currently studying AI and Computer vision at University of Paris-Descartes, Paris.
-- ⚡ Currently working as Data scientist at Stellantis.
+- 🔭 Currently working on computer vision.
+- 🌱 Studying AI and Computer vision at University of Paris-Descartes, Paris.
+- ⚡ Working as Data scientist at Stellantis.
 - 💬 Ask me about everything [here](mailto:aghiles.kebaili.1998@gmail.com).
 
 **📫 You can also reach me here :**  
