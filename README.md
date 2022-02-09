@@ -8,8 +8,8 @@ _**Do never forget, we are the avatars of the univers**_
 
 <ins>About me :</ins>
 - 🔭 I’m currently working on computer vision.
-- 🌱 I’m currently studying AI and Computer vision at University of Paris-Descartes, Paris.
-- 💬 Ask me about everything here.
+- 🌱 I’m currently studying AI and Computer vision at University of Paris-Descartes, Paris. Data scientist apprenticeship at Stellantis.
+- 💬 Ask me about everything [here](mailto:aghiles.kebaili.1998@gmail.com).
 - ⚡ Fact: *Be productive, don't waste your time.. or time will waste you.*
 
 **📫 You can also reach me here :**  
