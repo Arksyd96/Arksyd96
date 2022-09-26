@@ -7,9 +7,10 @@
 _**Do never forget, we are the avatars of the univers**_
 
 <ins>About me :</ins>
-- 🔭 Currently working on computer vision.
-- 🌱 Studying AI and Computer vision at University of Paris-Descartes, Paris.
-- ⚡ Working as Data scientist at Stellantis.
+- 🔭 Currently pursuing a Ph.D. in computer vision applied to medical imaging.  
+**Subject**: Variational autoencoders for prediction of cancer progression from multi-source information (Mainly using *deep learning*).
+- 🌱 Holding a computer vision master's degree from the [University of Paris-cité](https://u-paris.fr), Paris.
+- ⚡ One year experience as a Data scientist at [Stellantis](https://www.stellantis.com/fr).
 - 💬 Ask me about everything [here](mailto:aghiles.kebaili.1998@gmail.com).
 
 **📫 You can also reach me here :**  
