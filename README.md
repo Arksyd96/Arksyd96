@@ -7,7 +7,8 @@
 _**Do never forget, we are the avatars of the univers**_
 
 <ins>About me :</ins>
-- 🔭 Currently pursuing a Ph.D. in computer vision applied to medical imaging. You can check my publications [**here**](https://scholar.google.fr/citations?user=Sp3Q6LQAAAAJ&hl=fr).  
+- Research ingineer at Henri Becquerel Center - Working on multicentric PET harmonization
+- 🔭 Ph.D. in computer vision applied to medical imaging. You can check my publications [**here**](https://scholar.google.fr/citations?user=Sp3Q6LQAAAAJ&hl=fr).  
 - 🌱 Holding a computer vision master's degree from the [University of Paris-cité](https://u-paris.fr), Paris.
 - ⚡ One year experience as a Data scientist at [Stellantis](https://www.stellantis.com/fr).
 - 💬 Ask me about everything [here](mailto:aghiles.kebaili.1998@gmail.com).
