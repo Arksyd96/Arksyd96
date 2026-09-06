@@ -24,6 +24,9 @@
     <a href="mailto:aghiles.kebaili.1998@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=arksyd96&style=for-the-badge"/>
+    </a>
   </p>
 </div>
 
